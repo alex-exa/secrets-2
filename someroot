@@ -1,0 +1,4 @@
+PUT  /v2/auth/users/root
+    Put Body:
+        {"user" : "root", "password": "root"}
+        {"user" : "root", "password": "betterRootPW!"}
